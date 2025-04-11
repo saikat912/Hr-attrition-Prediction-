@@ -100,7 +100,7 @@ To run this project locally:
 ## **Visualizations and Insights**
 ### Example Visualizations:
 1. **Attrition by Age:**
-   ![Attrition vs Age](images/attrition_age Department:**
+   ![Attrition vs Age](https://github.com/saikat912/Hr-attrition-Prediction-/blob/c438c216dc41758fd5b74c561104827b1a13977a/download.png):**
    ![Attrition vs Department](images/attritionCorrelation Heatmap:**
    ![Correlation Heatmap](images/correlation_heatalizations help identify patterns such as higher attrition rates in specific age groups or departments.
 
